@@ -321,6 +321,26 @@
 
 }
   
-  
+footer {
+  text-align: center;
+}
+
+.credits-list {
+  list-style: none;
+  padding: 0;
+}
+
+.credits-list li {
+  margin-bottom: 8px;
+}
+
+.credits-list a {
+  color: rgb(62, 8, 26);
+  text-decoration: none;
+}
+
+.credits-list a:hover {
+  text-decoration: underline;
+}
   
   
