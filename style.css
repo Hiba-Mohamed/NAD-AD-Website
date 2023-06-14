@@ -328,9 +328,8 @@ footer {
   display: none;
   flex-direction: column;
   justify-content: space-between;
-  width: 30px;
-  height: 21px;
-  
+  width: 35px;
+  height: 30px; 
 }
 @media only screen and (min-width: 300px) and (max-width: 768px){
   .publisher {
@@ -384,6 +383,7 @@ footer {
   }
 
   .brand-icon {
+  display: flex;
    padding-top: 20px;
   }
 
