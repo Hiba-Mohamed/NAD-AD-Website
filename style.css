@@ -332,7 +332,7 @@ footer {
   background-color: white;
 }
 
-@media (max-width: 600px) {
+@media only screen and (min-width: 300px) and (max-width: 768px){
   .publisher {
     padding: 2%;
   }
